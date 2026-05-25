@@ -1,5 +1,9 @@
 # System Monitoring Center
 
+### v3.4.1 (25.05.2026)
+  * Fix: GPU load for AMD GPUs (GPU)
+  * Fix: GPU memory frequency (GPU)
+
 ### v3.4.0 (02.05.2026)
   * New: Non-blocking code for Services tab loading
   * Updated translations (Russian, Spanish, Turkish)

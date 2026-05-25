@@ -107,6 +107,14 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="3.4.1" date="2026-05-25">
+      <description>
+        <ul>
+          <li>Fix: GPU load for AMD GPUs (GPU)</li>
+          <li>Fix: GPU memory frequency (GPU)</li>
+        </ul>
+      </description>
+    </release>
     <release version="3.4.0" date="2026-05-02">
       <description>
         <ul>
